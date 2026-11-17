@@ -138,7 +138,7 @@ The dashboard has four pages on a 1920 by 1080 canvas. Most pages carry slicers 
 - Work status is split between freelancers (8), students (8), employed (6), interns or trainees (4) and unemployed (2).
 - UI/UX or graphic design is the largest field (8 respondents, 28.6%), ahead of software or web development (5) and data analytics (3). 6 chose "Other".
 
-<img width="324" height="274" alt="gender" src="https://github.com/user-attachments/assets/25ed3e86-5f9c-4b99-aa4f-0dff9b2e26fa" />
+
 
 
 ### Page 2: People and participation
