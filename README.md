@@ -1,4 +1,4 @@
-# Tech Ecosystem in Owerri
+# Tech Ecosystem in Owerri: Who is involved, what they do, what they face, and how policy shapes opportunity.
 
 An analysis of who works in tech in Owerri, how they got there, what they earn, what holds them back and what they know about the policies that affect them.
 
